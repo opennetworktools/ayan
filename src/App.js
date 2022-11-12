@@ -3,7 +3,6 @@ import { BrowserRouter, Routes, Route } from "react-router-dom"
 import Home from "./pages/Home"
 import DemoHome from "./demo/Home"
 import Dashboard from "./demo/Dashboard"
-import "./App.css"
 
 function App() {
   return (
